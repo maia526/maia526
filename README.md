@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariana
 - 👀 I’m interested in learning new things and traveling!
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning python!
 - 💞️ I’m looking to colaborate in projects that offer a great learning experience
 - 📫 How to reach me -> e-mail: marianamaia526@outlook.com
 
