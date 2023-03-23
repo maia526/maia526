@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <ul>
 <li>📚 Cursando Bacharelado em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO/ 3º período)</li>
-<li>💻 Atualmente aprendendendo Java.</li>
 <li>🟣 Pronomes: ela/dela</li>
 <li>👍 Email para contato: marianamaia526@outlook.com</li>
 </ul>
